@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_close</name>
+   <tag></tag>
+   <elementGuidId>58122301-1ee2-4b35-927d-1acfba12e0e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='task 2'])[1]/following::mat-icon[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>1a3087c8-a696-4aa4-bc27-0658dee40a79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>remove-icon mat-icon notranslate material-icons mat-icon-no-color</value>
+      <webElementGuid>28da828c-8c80-4bc4-9d68-541c4f89e2f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>16e4f287-8a4e-4857-8790-b17e8da9e7c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9db25f15-5965-42ae-8814-ecd67cc5ba95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>ee4e3578-d30e-4a23-bc3b-ef40485a5201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;app-view&quot;]/app-nav[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;sidenav-container mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-home-page[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;home-page&quot;]/mat-card[@class=&quot;home-card task-card mat-card ng-star-inserted&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/mat-icon[@class=&quot;remove-icon mat-icon notranslate material-icons mat-icon-no-color&quot;]</value>
+      <webElementGuid>f962d0bd-2800-444e-b215-22a60badcca9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='task 2'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>d4e79e04-d749-46c5-b9af-3d87241bb1b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fav task'])[1]/following::mat-icon[3]</value>
+      <webElementGuid>e37963d2-b464-41f4-bb71-7a777bc98493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-card[4]/mat-card-content/mat-icon</value>
+      <webElementGuid>006c6e2b-9cb1-43c4-9b84-3378d8b92d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'close' or . = 'close')]</value>
+      <webElementGuid>d2e7fcf8-548c-4554-8e92-d8d8049765bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

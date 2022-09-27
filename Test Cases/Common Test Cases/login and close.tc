@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-Login into the appliaction using:
+* Usernmane: user
+* Password: user
+- Log out of the application</description>
+   <name>login and close</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6646c0b-a54f-4498-b4a1-e846308b120e</testCaseGuid>
+</TestCaseEntity>

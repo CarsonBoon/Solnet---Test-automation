@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login</name>
+   <tag></tag>
+   <elementGuidId>9944b0d2-f860-4eed-b13b-7d0cd5399ced</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-button-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Wrong Credentials!'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2bbdb4f6-969a-46fe-94b0-21f38f9bdbf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>30afe1c5-6806-44a0-9187-d981efc71389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login </value>
+      <webElementGuid>a293d3d5-d779-4389-a3cc-dd91f6a2f03e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;app-view&quot;]/app-login-page[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;login-page&quot;]/mat-card[@class=&quot;mat-card&quot;]/mat-card-actions[@class=&quot;mat-card-actions&quot;]/button[@class=&quot;login-field mat-raised-button mat-button-base mat-primary cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>c6e796a7-8384-46c8-9166-477446841a8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wrong Credentials!'])[1]/following::span[1]</value>
+      <webElementGuid>e5c4d92b-4bb3-4603-b53a-0b90581d9b0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[2]</value>
+      <webElementGuid>67a06f95-8b35-4438-83aa-55823dff51af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>fc6d0f37-8653-4b2d-8aae-c2eaa7e4af8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>58d8e603-7527-4039-bfe3-3172edbe2db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Login ' or . = ' Login ')]</value>
+      <webElementGuid>5999e68d-74ff-4f02-acc1-34ae066fef53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

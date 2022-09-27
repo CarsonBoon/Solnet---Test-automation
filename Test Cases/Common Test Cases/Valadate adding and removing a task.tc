@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Add a new 'test' task
+- Validate new task has been created
+- Remove the new Test Task
+- Validate new task has been removed</description>
+   <name>Valadate adding and removing a task</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0bb3820d-b0ba-482e-97ae-d7a79ea9b28b</testCaseGuid>
+</TestCaseEntity>

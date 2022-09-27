@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Task due date_mat-datepicker-toggle-def_900350</name>
+   <tag></tag>
+   <elementGuidId>baa9a660-685f-413e-9940-f6d951e4246b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.mat-datepicker-toggle-default-icon.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Task due date'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f07b36d4-8a53-4bb8-8196-ce84e363b33f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-datepicker-toggle-default-icon ng-star-inserted</value>
+      <webElementGuid>d0fad4f3-fe8c-41c4-8276-4844f7f02d54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>903edac1-e187-4965-9d7e-57199322d33b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3222dfb9-7e91-43cf-bdb9-5d2e5dec2377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24px</value>
+      <webElementGuid>35d0b191-e6de-4bcf-996b-7d5894b3a99e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>91aa7671-a690-4d09-a13b-79536dae3e46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24px</value>
+      <webElementGuid>2f8d2317-d9c4-40ea-844a-e849dc0ed330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;app-view&quot;]/app-nav[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;sidenav-container mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-home-page[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;home-page&quot;]/mat-card[@class=&quot;home-card mat-card&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/form[@class=&quot;ng-dirty ng-valid ng-touched&quot;]/mat-form-field[@class=&quot;form-field mat-form-field ng-tns-c4-5 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine mat-form-field-disabled&quot;]/div[@class=&quot;mat-form-field-wrapper&quot;]/div[@class=&quot;mat-form-field-flex&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c4-5 ng-star-inserted&quot;]/mat-datepicker-toggle[@class=&quot;mat-datepicker-toggle&quot;]/button[@class=&quot;mat-icon-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/svg[@class=&quot;mat-datepicker-toggle-default-icon ng-star-inserted&quot;]</value>
+      <webElementGuid>52fb4001-7a6f-4bdf-9059-2b9d51a9be34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task due date'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>9b23cd52-9c3c-4a49-a89a-293393336446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task description'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>817a1074-7128-4de7-a1be-4cf2711a89be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>a4b96432-43ab-4add-af2c-83b10cf2116e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add_mat-checkbox-inner-container mat-ch_2d6d16</name>
+   <tag></tag>
+   <elementGuidId>88d371c3-d6d6-4bb3-8dfc-e9acad0f3dfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-checkbox-inner-container.mat-checkbox-inner-container-no-side-margin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-checkbox[@id='mat-checkbox-2']/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5be7fa33-8232-43d1-a8dd-cd0774503be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-checkbox-inner-container mat-checkbox-inner-container-no-side-margin</value>
+      <webElementGuid>bd7e8364-a500-4a93-a4ba-65c0ecaccdaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-checkbox-2&quot;)/label[@class=&quot;mat-checkbox-layout&quot;]/div[@class=&quot;mat-checkbox-inner-container mat-checkbox-inner-container-no-side-margin&quot;]</value>
+      <webElementGuid>e26c40a8-9e23-48ad-86df-7aa9cddac987</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-checkbox[@id='mat-checkbox-2']/label/div</value>
+      <webElementGuid>2d65a438-1a1b-4610-9c2d-a875cc43a100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::div[3]</value>
+      <webElementGuid>2a6d4c8e-5fbd-4548-988d-809514a59eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Task 1'])[1]/preceding::div[7]</value>
+      <webElementGuid>77843eb6-c9f1-428f-b4e5-50bf1ad8aaa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-card-content/mat-checkbox/label/div</value>
+      <webElementGuid>878bde98-6386-4387-8638-7130a1a00b9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

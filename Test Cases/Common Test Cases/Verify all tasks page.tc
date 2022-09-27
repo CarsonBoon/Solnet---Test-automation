@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Create two additional tasks 
+- Navigate to the all tasks page
+- Navigate back to the landing page and remove the extra tasks</description>
+   <name>Verify all tasks page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4764af3-312f-42a5-87b4-e4044acf0467</testCaseGuid>
+</TestCaseEntity>

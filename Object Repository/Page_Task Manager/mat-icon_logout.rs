@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_logout</name>
+   <tag></tag>
+   <elementGuidId>38330de6-bb70-468d-9382-41f72c0837bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='My day'])[2]/following::mat-icon[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-icon-button.mat-button-base.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > mat-icon.mat-icon.notranslate.material-icons.mat-icon-no-color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>c3da408e-dc6c-415d-85a9-7aa153e77c94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-icons mat-icon-no-color</value>
+      <webElementGuid>b6af19d7-1c05-44cf-ba6b-eb3a248ec23b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b8e08849-7ef8-49aa-a551-4c318a53d152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>37c2c808-2f96-4286-9466-eb819997a50d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>logout</value>
+      <webElementGuid>6e911e5f-4c2e-4841-b9d6-abe73fc5a1ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;app-view&quot;]/app-nav[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;sidenav-container mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-nav-toolbar[1]/mat-toolbar[@class=&quot;mat-elevation-z6 mat-toolbar mat-primary mat-toolbar-single-row&quot;]/button[@class=&quot;mat-icon-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-no-color&quot;]</value>
+      <webElementGuid>852c30c8-6d81-4be7-8639-cd24e0283573</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My day'])[2]/following::mat-icon[1]</value>
+      <webElementGuid>6f3d99d5-5787-42a6-a781-ccc070e842ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Important Tasks'])[1]/following::mat-icon[3]</value>
+      <webElementGuid>74d181e5-0feb-4734-b0e9-e3ca6558e09e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task title'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>33bc2d27-cf75-4c11-939d-4e7e0976b8b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task description'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>27d6c16c-1014-4aff-903d-fc1d1a188ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='logout']/parent::*</value>
+      <webElementGuid>498c2a3b-24e1-4acb-bed4-fa7369996502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span/mat-icon</value>
+      <webElementGuid>fbe2c50c-0898-432c-9b43-06030793a763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'logout' or . = 'logout')]</value>
+      <webElementGuid>6a4a0342-257b-451f-8361-f7147b6a2e5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

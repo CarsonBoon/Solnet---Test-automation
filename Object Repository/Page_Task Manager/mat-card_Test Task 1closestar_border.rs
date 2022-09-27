@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-card_Test Task 1closestar_border</name>
+   <tag></tag>
+   <elementGuidId>5bc1f0c1-7100-4edf-a288-cd23d86511fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>mat-card.home-card.task-card.mat-card.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::mat-card[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-card</value>
+      <webElementGuid>8a1a305b-8307-4102-9b21-c35faaca6382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>home-card task-card mat-card ng-star-inserted</value>
+      <webElementGuid>a08f844a-4ea9-4656-a1bd-17893fe60641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayout</name>
+      <type>Main</type>
+      <value>column</value>
+      <webElementGuid>7d359c25-14a9-4774-a144-c7c7e520a25b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Test Task 1closestar_border</value>
+      <webElementGuid>6373ca99-d3c1-4a1a-be13-0a672b7a0240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;app-view&quot;]/app-nav[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;sidenav-container mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-home-page[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;home-page&quot;]/mat-card[@class=&quot;home-card task-card mat-card ng-star-inserted&quot;]</value>
+      <webElementGuid>91066e71-32f5-46a8-a1f8-5fb6a2850e39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-card</value>
+      <webElementGuid>605c0c9b-2b86-45d6-bcf6-205db9664151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>home-card task-card mat-card ng-star-inserted</value>
+      <webElementGuid>87f02c7a-f18c-436f-9f93-60c5663b162c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayout</name>
+      <type>Main</type>
+      <value>column</value>
+      <webElementGuid>307b1de0-76a9-4cc6-8fa4-ee35d58643ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Test Task 1closestar_border</value>
+      <webElementGuid>d45ed577-c86f-4cf0-8a17-7cc12b4176bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;app-view&quot;]/app-nav[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;sidenav-container mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-home-page[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;home-page&quot;]/mat-card[@class=&quot;home-card task-card mat-card ng-star-inserted&quot;]</value>
+      <webElementGuid>1ddac97f-ecdd-4a29-8d03-219d9f7ea6a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::mat-card[1]</value>
+      <webElementGuid>562e55aa-86bb-429c-8414-58f43fb13336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-card[2]</value>
+      <webElementGuid>09ac855b-1430-4058-a59d-8399a346c83f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-card[(text() = ' Test Task 1closestar_border' or . = ' Test Task 1closestar_border')]</value>
+      <webElementGuid>f706fc53-54ca-4c67-a7da-39b69770a5a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::mat-card[1]</value>
+      <webElementGuid>28aa98f6-e58a-4a60-9f8a-62239a89bb3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

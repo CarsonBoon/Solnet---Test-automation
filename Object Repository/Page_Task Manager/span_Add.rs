@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add</name>
+   <tag></tag>
+   <elementGuidId>961a5311-79f2-4210-a928-58333866e382</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='addTask']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#addTask > span.mat-button-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7ccc94c6-3768-40f1-83dd-6480bdfa5fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>f4f6c447-0249-40ce-bcc0-021b3cc5bb2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add </value>
+      <webElementGuid>c424683e-eb23-4249-b24b-cf723d3bd43a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addTask&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>e0b6ef1c-bf6e-4de0-9bdb-ecb5fb4bb8a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='addTask']/span</value>
+      <webElementGuid>263f8208-d6ab-4b79-83a9-e5e06b18b27c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task due date'])[1]/following::span[5]</value>
+      <webElementGuid>1cc8ad8b-0b0b-49c7-89df-ebb64ecdfd51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Task 1'])[1]/preceding::span[3]</value>
+      <webElementGuid>13c56434-f9d5-485b-8a16-0110c0c52869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'addTask', '&quot;', ')/span[@class=', '&quot;', 'mat-button-wrapper', '&quot;', ']')])[1]/preceding::span[4]</value>
+      <webElementGuid>c98ca3ec-bf94-4c9d-a5ed-9926749799e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>b8256e15-ca99-434b-8103-7d7123e4f3bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-card-actions/button/span</value>
+      <webElementGuid>7305b48c-2aa3-43fc-bf77-327e486a42bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Add ' or . = ' Add ')]</value>
+      <webElementGuid>74f86106-054e-4d54-933e-6dd137b1aa33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email</name>
+   <tag></tag>
+   <elementGuidId>92348fbf-7381-465d-90ee-66b90b5a95e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Login to manage your tasks'])[1]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6c09ee14-3f00-41eb-a9bd-1ff98f111890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix</value>
+      <webElementGuid>b5c87c42-4814-47a4-aa26-a983cc004259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>70019bc6-370b-4103-80fb-dda41f8739e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;app-view&quot;]/app-login-page[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;login-page&quot;]/mat-card[@class=&quot;mat-card&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/mat-form-field[@class=&quot;login-field mat-form-field ng-tns-c4-0 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper&quot;]/div[@class=&quot;mat-form-field-flex&quot;]/div[@class=&quot;mat-form-field-infix&quot;]</value>
+      <webElementGuid>97710094-8688-40fa-a75c-769e8d475d0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login to manage your tasks'])[1]/following::div[3]</value>
+      <webElementGuid>0274b05f-d02f-42dc-927c-af2b9758adad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[5]</value>
+      <webElementGuid>a75dcbb0-cb46-4900-96d6-d26eed313edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>5cff96ea-11c1-4069-bda3-67c76f199f9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email' or . = 'Email')]</value>
+      <webElementGuid>132de2c3-f020-4fe0-a3fe-5b7638c1e20e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

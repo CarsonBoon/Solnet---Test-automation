@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_My day</name>
+   <tag></tag>
+   <elementGuidId>9a33d232-441f-41a9-a72c-a4b02064be6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='All Tasks'])[1]/preceding::div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f893f113-9885-423d-8ba6-229a280c9b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxflex</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>23efff34-f4ec-4de4-8013-d3374ec649ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-fx-flex</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>6ff12493-25f2-4823-90d1-d7bef3ec1f61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> My day </value>
+      <webElementGuid>ede728b9-97c0-4d65-ac13-c9f8a9ab0292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;app-view&quot;]/app-nav[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;sidenav-container mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav[@class=&quot;mat-drawer mat-sidenav ng-tns-c8-2 ng-trigger ng-trigger-transform mat-drawer-side mat-drawer-opened ng-star-inserted&quot;]/div[@class=&quot;mat-drawer-inner-container&quot;]/mat-nav-list[@class=&quot;mat-nav-list mat-list-base&quot;]/app-nav-menu-item[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;mat-list-item sidenav-item ng-star-inserted&quot;]/div[@class=&quot;mat-list-item-content&quot;]/div[4]</value>
+      <webElementGuid>c7b855f3-9fd6-4fdc-9c9d-a4048db55367</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Tasks'])[1]/preceding::div[4]</value>
+      <webElementGuid>81387ece-3779-4009-a09d-8d1d4109da4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Important Tasks'])[1]/preceding::div[9]</value>
+      <webElementGuid>0ccec566-34f0-49c8-ad35-dd9d6256ce0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My day']/parent::*</value>
+      <webElementGuid>9a3ce568-e5ca-4f65-977b-2e927b5417d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>97f4c569-2101-4575-ae59-6f6d293407ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' My day ' or . = ' My day ')]</value>
+      <webElementGuid>a6fae89d-d8fd-4223-9d03-e099c066b8d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

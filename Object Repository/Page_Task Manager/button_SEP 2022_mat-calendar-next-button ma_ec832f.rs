@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SEP 2022_mat-calendar-next-button ma_ec832f</name>
+   <tag></tag>
+   <elementGuidId>4a67ad9f-310f-4e03-8843-f11da5eb3fc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-calendar-next-button.mat-icon-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>743063a0-b796-44fb-8e5a-ce4d61b6f5c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-calendar-next-button mat-icon-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>c5f14a01-66f7-450d-90e7-cddfaac6b913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3f97dd38-4629-4ff7-a23d-99e61e3dafa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f683d5ee-4601-4757-b6ed-682e93ecfa28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Next month</value>
+      <webElementGuid>d5e494ee-43c8-412d-b44b-a39cc35828c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-datepicker-0&quot;)/mat-calendar-header[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mat-calendar-header&quot;]/div[@class=&quot;mat-calendar-controls&quot;]/button[@class=&quot;mat-calendar-next-button mat-icon-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>9ba2a770-7aa1-4d3c-b21f-bab258e24bc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>0a6934e8-346e-493c-a8c7-c7b48321c30f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-calendar[@id='mat-datepicker-0']/mat-calendar-header/div/div/button[3]</value>
+      <webElementGuid>e26ec862-3b27-4220-8965-e443331ece90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEP 2022'])[1]/following::button[2]</value>
+      <webElementGuid>838e424f-faf7-46f4-9cc6-0727a8791188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Task 1'])[1]/following::button[3]</value>
+      <webElementGuid>bcf7a4b6-7d13-408f-8237-25fc8f3b3a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/preceding::button[1]</value>
+      <webElementGuid>0511f3d8-2da6-4c80-81b5-cfc94ee5758d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/preceding::button[1]</value>
+      <webElementGuid>ada65184-826b-47df-a990-e7cb4fc10eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>efa3d26b-7815-4dde-8c3c-557f24679acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>48f0bbbd-6ecb-417b-9679-2e24303f8b5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
